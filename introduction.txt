@@ -1,0 +1,51 @@
+INTRODUCTION TO PYTHON:
+
+python is the most easiest programming language in which a programmer could code fast and easy.
+python is fun actually.
+python was released in the year 1991 by GuidoVan Rossum, it's a high level language and interpreted one..
+
+The datatypes in python are LIST,TUPLE,SET,STRING,DICTIONARY.. where string and tuple are immutable whereas remaining are mutable..
+
+To simpilify the programming, we create small handeable units known as Modules like math module,random and matplotlib modules..
+modules can contain functions, classes and objects, variables, statements, docstrings..
+
+Python has OOPS concept such as CLASSES(blueprint to build object),
+OBJECT(real world entity),
+INHERITANCE(single,multilevel,multiple,hierarchical,hybrid),
+POLYMORPHISM(operator overloading and overriding),
+ENCAPSULATION(data hiding or abstraction)
+
+Intresting thing is that Python also supports the GRAPHICAL USER INTERFACE(GUI)..so that we can create animations with few lines of code compare to other languages.
+It has tkinter module, it is the standard GUI library for python..
+widgets are Button,Canvas,CheckButton,Entry,Frame,Listbox,Menu,MenuButton,Message,Radiobutton etc..
+
+
+It has many support libraries like- TENSORFLOW,NUMPY,PANDAS,SCIPY,MATPLOTLIB etc..
+It also supports multithreading concepts..
+
+NUMPY is the library for creating n dimensional arrays in an easy and fast way.
+
+PANDAS is a tool for DATAPROCESSING which helps in data analysis..It provides functions and methods to efficiently manipulate large datasets.
+
+MATPLOTLIB is an open souce drawing library which supports reich drawing types(2D & 3D graphics)..
+u can generate plots,histograms,bar charts and many other charts with just a fewlines of code.
+
+Latest added library and the most useful one is SCIKIT..
+it is simple and efficient tool for DATAMINING & DAAT ANALYSIS built on numpy, scipy and matplotlib libraries..
+
+Atlast, DYANAMIC PROGRAMING is useful to handle time and space complexities..
+It includes Recursion(Linear(Direct and Indirect) and Non Linear recursions)
+
+DATASTRUCTURES in python which includes -
+Built in Datastructures(LIST, DICTIONARY, TUPLE, SET) and
+User defined Datastructures(STACK, QUEUE, TREE, LINKED LIST, GRAPH, HASHMAP)
+
+Algorithm classes involves in -
+1.Divide & Conquer
+2.Dynamic Programming
+3.Greedy algorithms
+
+Sorting algorithms include MERGESORT, BUBBLESORT, INSERTIONSORT, SELECTION SORT, SHELL SHORT.
+Searching algorithms include LINEAR SEARCH and BINARY SEARCH.
+
+
